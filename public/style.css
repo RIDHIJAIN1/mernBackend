@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(123, 199, 240);
+}
+
+form>input{
+    background-color: blanchedalmond;
+    height: 40px;
+    width: 1000px;
+    margin: 20px;
+}
+h1{
+    margin: 50px;
+}
+
+.contact{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+form>button{
+    height: 40px;
+    background-color: antiquewhite;
+    width: 200px;
+    margin: 50px;
+    font-size: 20px;
+}
+
+
+
